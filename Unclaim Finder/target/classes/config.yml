@@ -1,0 +1,17 @@
+# Configuration du plugin
+
+# Liste des blocs à détecter
+blocks-to-detect:
+  - CHEST
+  # Ajoutez d'autres blocs ici, par exemple:
+  # - TRAPPED_CHEST
+  # - BARREL
+  # - FURNACE
+
+# Nombre de chunks à scanner (rayon autour du joueur)
+chunk-radius: 1
+
+# Permissions
+permissions:
+  use-boussole: "plugin.use.boussole"
+  admin-boussole: "plugin.admin" 

@@ -1,0 +1,24 @@
+# Configuration du plugin
+
+# Liste des blocs à détecter
+blocks-to-detect:
+  - CHEST
+  # Ajoutez d'autres blocs ici, par exemple:
+  # - TRAPPED_CHEST
+  # - BARREL
+  # - FURNACE
+
+# Nombre de chunks à scanner (rayon autour du joueur)
+chunk-radius: 1
+
+# Paramètres d'affichage
+display:
+  fade-in: 10    # Temps d'apparition en ticks (20 ticks = 1 seconde)
+  stay: 100      # Temps d'affichage en ticks
+  fade-out: 10   # Temps de disparition en ticks
+  cooldown: 100  # Temps de cooldown en ticks
+
+# Permissions
+permissions:
+  use-boussole: "plugin.use.boussole"
+  admin-boussole: "plugin.admin" 

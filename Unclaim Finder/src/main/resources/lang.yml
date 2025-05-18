@@ -1,0 +1,6 @@
+messages:
+  no-permission-command: "&cVous n'avez pas la permission d'utiliser cette commande."
+  must-be-player: "&cCette commande doit être exécutée par un joueur."
+  received-boussole: "&aVous avez reçu l'Unclaim Finder !"
+  no-permission-use: "&cVous n'avez pas la permission d'utiliser cette boussole."
+  cooldown: "&cVeuillez attendre avant de réutiliser la boussole." 
